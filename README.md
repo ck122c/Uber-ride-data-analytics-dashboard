@@ -1,4 +1,4 @@
-# Uber-ride-data-analytics-dashboard
+# Uber-data-analytics
 
 🚖 Uber Ride Data Analytics Dashboard
 📊 Project Overview
